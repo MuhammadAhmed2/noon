@@ -1,0 +1,40 @@
+.bg-yellow{
+    background-color: yellow;
+}
+a:link { 
+    text-decoration: none; 
+  } 
+  a:visited { 
+    text-decoration: none; 
+  } 
+  a:hover { 
+    text-decoration: none; 
+  } 
+  a:active { 
+    text-decoration: none; 
+  }
+
+  .exvhLB {
+    display: flex;
+    margin: 0px 10px;
+    border-left: 1px solid rgba(64, 69, 83, 0.2);
+    height: 20px;
+  }
+  Myflex-a-c{
+    display: flex;
+    align-content: center;
+  }
+  .cata{
+    font-style: bold;
+  }
+.text-center{
+    padding-top: 1rem;
+}
+
+.main-contain{
+    background-color: #fdecec;
+    padding:  0px 50px 0px 50px;
+}
+#nav-color{
+  background-color: yellow;
+}
